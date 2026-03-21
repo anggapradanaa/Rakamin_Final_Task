@@ -214,15 +214,6 @@ LogisticRegression(
 
 ---
 
-## 📁 Struktur File
-
-```
-├── Sintaks.ipynb           # Notebook utama (XGBoost + Logistic Regression)
-├── application_train.csv   # Dataset training
-├── application_test.csv    # Dataset testing
-└── README.md               # Dokumentasi proyek
-```
-
 ---
 
 ## 👤 Author
