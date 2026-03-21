@@ -214,8 +214,6 @@ LogisticRegression(
 
 ---
 
----
-
 ## 👤 Author
 
 Proyek ini dikerjakan sebagai bagian dari Program **Rakamin × Home Credit Indonesia (Project-Based Internship)**.
